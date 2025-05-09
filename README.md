@@ -53,7 +53,4 @@ Got data? Awesome. Drop it in the `data/` folder—it’s like the VIP section f
 2. Open one of the notebooks and start running cells like you’re on a coding speedrun.
 3. Tweak, analyze, predict, and take all the credit when it works. 🎉
 
-## 🤝 Contributing
-Want to make this repo even cooler? Here’s how:
-1. Fork it like you mean it.
-2. Create a new branch because
+
